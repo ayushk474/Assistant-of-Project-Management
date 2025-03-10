@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+motor
+faiss-cpu
+numpy
+langchain
+langchain-community
+langchain-huggingface
+huggingface-hub
+sentence-transformers
+tenacity
